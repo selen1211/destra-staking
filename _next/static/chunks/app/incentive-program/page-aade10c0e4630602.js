@@ -40,7 +40,7 @@
                               })]
                           }), (0,
                           s.jsx)(n.default, {
-                              href: "https://rewards-destranetwork-project.vercel.app/",
+                              href: "https://rewards.destra-ai.net/",
                               target: "_blank",
                               children: (0,
                               s.jsx)("button", {
@@ -69,7 +69,7 @@
                               })]
                           }), (0,
                           s.jsx)(n.default, {
-                              href: "https://rewards-destranetwork-project.vercel.app/",
+                              href: "https://rewards.destra-ai.net/",
                               target: "_blank",
                               children: (0,
                               s.jsx)("button", {
